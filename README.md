@@ -5,4 +5,4 @@
 
 |develop a Web server|
 |:---:|
-|C|
+|C언어|
